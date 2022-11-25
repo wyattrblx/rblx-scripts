@@ -17,7 +17,7 @@
 • Auto Reload
 • No Ammo Loss
 
-# Shinden
+[+] Shinden
 
 • Speedhack
  ∙ Amount [1 - 3]
