@@ -1,0 +1,13 @@
+local gp = game.PlaceId
+
+if gp == 7714627632 then 
+   return loadstring(game:HttpGet('https://raw.githubusercontent.com/wyattrblx/rblx-scripts/main/Winds%20Of%20Fortune.lua'))()
+elseif gp == 8657806289 then
+   return loadstring(game:HttpGet('https://raw.githubusercontent.com/wyattrblx/rblx-scripts/main/Dummies%20Vs%20Noobs.lua'))()
+elseif gp == 9993529229 then
+   return loadstring(game:HttpGet('https://raw.githubusercontent.com/wyattrblx/rblx-scripts/main/Counter%20Blox'))()
+elseif gp == 10889408214 then
+   return loadstring(game:HttpGet('https://raw.githubusercontent.com/wyattrblx/rblx-scripts/main/Deflect.lua'))()
+elseif gp == 6808589067 then
+   return loadstring(game:HttpGet('https://raw.githubusercontent.com/wyattrblx/rblx-scripts/main/Shinden.lua'))()
+end
