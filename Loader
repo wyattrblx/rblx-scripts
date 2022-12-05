@@ -8,6 +8,6 @@ elseif gp == 9993529229 then
    return loadstring(game:HttpGet('https://raw.githubusercontent.com/wyattrblx/rblx-scripts/main/Counter%20Blox'))()
 elseif gp == 10889408214 then
    return loadstring(game:HttpGet('https://raw.githubusercontent.com/wyattrblx/rblx-scripts/main/Deflect.lua'))()
-elseif gp == 6808589067 then
+elseif gp == 10369535604 then
    return loadstring(game:HttpGet('https://raw.githubusercontent.com/wyattrblx/rblx-scripts/main/Shinden.lua'))()
 end
